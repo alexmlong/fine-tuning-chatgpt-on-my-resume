@@ -1,5 +1,3 @@
-# Untitled
-
 # Fine tuning Chat GPT on my resume
 
 This was a short little experiment in testing out the Chat GPT API for fine-tuning a model. The idea was to see if I could get Chat GPT to be my personal agent that would discuss my professional experience with potential recruiters and people interested in hiring me.
